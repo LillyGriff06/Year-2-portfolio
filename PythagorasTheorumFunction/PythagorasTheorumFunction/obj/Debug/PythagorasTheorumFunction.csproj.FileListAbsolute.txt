@@ -1,0 +1,11 @@
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PythagorasTheorumFunction\PythagorasTheorumFunction\bin\Debug\PythagorasTheorumFunction.exe.config
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PythagorasTheorumFunction\PythagorasTheorumFunction\bin\Debug\PythagorasTheorumFunction.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PythagorasTheorumFunction\PythagorasTheorumFunction\bin\Debug\PythagorasTheorumFunction.pdb
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PythagorasTheorumFunction\PythagorasTheorumFunction\obj\Debug\PythagorasTheorumFunction.csproj.AssemblyReference.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PythagorasTheorumFunction\PythagorasTheorumFunction\obj\Debug\PythagorasTheorumFunction.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PythagorasTheorumFunction\PythagorasTheorumFunction\obj\Debug\PythagorasTheorumFunction.Form1.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PythagorasTheorumFunction\PythagorasTheorumFunction\obj\Debug\PythagorasTheorumFunction.Properties.Resources.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PythagorasTheorumFunction\PythagorasTheorumFunction\obj\Debug\PythagorasTheorumFunction.csproj.GenerateResource.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PythagorasTheorumFunction\PythagorasTheorumFunction\obj\Debug\PythagorasTheorumFunction.csproj.CoreCompileInputs.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PythagorasTheorumFunction\PythagorasTheorumFunction\obj\Debug\PythagorasTheorumFunction.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PythagorasTheorumFunction\PythagorasTheorumFunction\obj\Debug\PythagorasTheorumFunction.pdb

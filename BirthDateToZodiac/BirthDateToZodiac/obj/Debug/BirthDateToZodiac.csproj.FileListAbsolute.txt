@@ -1,0 +1,11 @@
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\BirthDateToZodiac\BirthDateToZodiac\bin\Debug\BirthDateToZodiac.exe.config
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\BirthDateToZodiac\BirthDateToZodiac\bin\Debug\BirthDateToZodiac.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\BirthDateToZodiac\BirthDateToZodiac\bin\Debug\BirthDateToZodiac.pdb
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\BirthDateToZodiac\BirthDateToZodiac\obj\Debug\BirthDateToZodiac.csproj.AssemblyReference.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\BirthDateToZodiac\BirthDateToZodiac\obj\Debug\BirthDateToZodiac.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\BirthDateToZodiac\BirthDateToZodiac\obj\Debug\BirthDateToZodiac.Form1.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\BirthDateToZodiac\BirthDateToZodiac\obj\Debug\BirthDateToZodiac.Properties.Resources.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\BirthDateToZodiac\BirthDateToZodiac\obj\Debug\BirthDateToZodiac.csproj.GenerateResource.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\BirthDateToZodiac\BirthDateToZodiac\obj\Debug\BirthDateToZodiac.csproj.CoreCompileInputs.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\BirthDateToZodiac\BirthDateToZodiac\obj\Debug\BirthDateToZodiac.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\BirthDateToZodiac\BirthDateToZodiac\obj\Debug\BirthDateToZodiac.pdb

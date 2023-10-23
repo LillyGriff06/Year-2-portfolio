@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightConversionFunction", "WeightConversionFunction\WeightConversionFunction.csproj", "{4FC53DE5-4FBB-4FB8-BE83-6E5B8C713E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC53DE5-4FBB-4FB8-BE83-6E5B8C713E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC53DE5-4FBB-4FB8-BE83-6E5B8C713E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC53DE5-4FBB-4FB8-BE83-6E5B8C713E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC53DE5-4FBB-4FB8-BE83-6E5B8C713E00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF58F325-D6D9-4DE7-AD0E-A48831C50717}
+	EndGlobalSection
+EndGlobal

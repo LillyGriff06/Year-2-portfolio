@@ -1,0 +1,11 @@
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LetterGradeToGradePoint\LetterGradeToGradePoint\bin\Debug\LetterGradeToGradePoint.exe.config
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LetterGradeToGradePoint\LetterGradeToGradePoint\bin\Debug\LetterGradeToGradePoint.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LetterGradeToGradePoint\LetterGradeToGradePoint\bin\Debug\LetterGradeToGradePoint.pdb
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LetterGradeToGradePoint\LetterGradeToGradePoint\obj\Debug\LetterGradeToGradePoint.csproj.AssemblyReference.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LetterGradeToGradePoint\LetterGradeToGradePoint\obj\Debug\LetterGradeToGradePoint.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LetterGradeToGradePoint\LetterGradeToGradePoint\obj\Debug\LetterGradeToGradePoint.Form1.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LetterGradeToGradePoint\LetterGradeToGradePoint\obj\Debug\LetterGradeToGradePoint.Properties.Resources.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LetterGradeToGradePoint\LetterGradeToGradePoint\obj\Debug\LetterGradeToGradePoint.csproj.GenerateResource.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LetterGradeToGradePoint\LetterGradeToGradePoint\obj\Debug\LetterGradeToGradePoint.csproj.CoreCompileInputs.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LetterGradeToGradePoint\LetterGradeToGradePoint\obj\Debug\LetterGradeToGradePoint.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LetterGradeToGradePoint\LetterGradeToGradePoint\obj\Debug\LetterGradeToGradePoint.pdb

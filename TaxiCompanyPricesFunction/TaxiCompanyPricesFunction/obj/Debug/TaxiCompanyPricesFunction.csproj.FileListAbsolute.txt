@@ -1,0 +1,11 @@
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TaxiCompanyPricesFunction\TaxiCompanyPricesFunction\bin\Debug\TaxiCompanyPricesFunction.exe.config
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TaxiCompanyPricesFunction\TaxiCompanyPricesFunction\bin\Debug\TaxiCompanyPricesFunction.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TaxiCompanyPricesFunction\TaxiCompanyPricesFunction\bin\Debug\TaxiCompanyPricesFunction.pdb
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TaxiCompanyPricesFunction\TaxiCompanyPricesFunction\obj\Debug\TaxiCompanyPricesFunction.csproj.AssemblyReference.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TaxiCompanyPricesFunction\TaxiCompanyPricesFunction\obj\Debug\TaxiCompanyPricesFunction.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TaxiCompanyPricesFunction\TaxiCompanyPricesFunction\obj\Debug\TaxiCompanyPricesFunction.Form1.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TaxiCompanyPricesFunction\TaxiCompanyPricesFunction\obj\Debug\TaxiCompanyPricesFunction.Properties.Resources.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TaxiCompanyPricesFunction\TaxiCompanyPricesFunction\obj\Debug\TaxiCompanyPricesFunction.csproj.GenerateResource.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TaxiCompanyPricesFunction\TaxiCompanyPricesFunction\obj\Debug\TaxiCompanyPricesFunction.csproj.CoreCompileInputs.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TaxiCompanyPricesFunction\TaxiCompanyPricesFunction\obj\Debug\TaxiCompanyPricesFunction.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TaxiCompanyPricesFunction\TaxiCompanyPricesFunction\obj\Debug\TaxiCompanyPricesFunction.pdb

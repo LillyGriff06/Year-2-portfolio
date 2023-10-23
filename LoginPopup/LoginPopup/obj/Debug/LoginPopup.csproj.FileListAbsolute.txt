@@ -1,0 +1,11 @@
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe.config
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LoginPopup\LoginPopup\bin\Debug\LoginPopup.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LoginPopup\LoginPopup\bin\Debug\LoginPopup.pdb
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LoginPopup\LoginPopup\obj\Debug\LoginPopup.csproj.AssemblyReference.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LoginPopup\LoginPopup\obj\Debug\LoginPopup.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LoginPopup\LoginPopup\obj\Debug\LoginPopup.Form1.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LoginPopup\LoginPopup\obj\Debug\LoginPopup.Properties.Resources.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LoginPopup\LoginPopup\obj\Debug\LoginPopup.csproj.GenerateResource.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LoginPopup\LoginPopup\obj\Debug\LoginPopup.csproj.CoreCompileInputs.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LoginPopup\LoginPopup\obj\Debug\LoginPopup.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\LoginPopup\LoginPopup\obj\Debug\LoginPopup.pdb

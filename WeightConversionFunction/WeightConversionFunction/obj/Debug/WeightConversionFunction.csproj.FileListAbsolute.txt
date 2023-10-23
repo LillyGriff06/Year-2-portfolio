@@ -1,0 +1,11 @@
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeightConversionFunction\WeightConversionFunction\bin\Debug\WeightConversionFunction.exe.config
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeightConversionFunction\WeightConversionFunction\bin\Debug\WeightConversionFunction.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeightConversionFunction\WeightConversionFunction\bin\Debug\WeightConversionFunction.pdb
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeightConversionFunction\WeightConversionFunction\obj\Debug\WeightConversionFunction.csproj.AssemblyReference.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeightConversionFunction\WeightConversionFunction\obj\Debug\WeightConversionFunction.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeightConversionFunction\WeightConversionFunction\obj\Debug\WeightConversionFunction.Form1.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeightConversionFunction\WeightConversionFunction\obj\Debug\WeightConversionFunction.Properties.Resources.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeightConversionFunction\WeightConversionFunction\obj\Debug\WeightConversionFunction.csproj.GenerateResource.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeightConversionFunction\WeightConversionFunction\obj\Debug\WeightConversionFunction.csproj.CoreCompileInputs.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeightConversionFunction\WeightConversionFunction\obj\Debug\WeightConversionFunction.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeightConversionFunction\WeightConversionFunction\obj\Debug\WeightConversionFunction.pdb

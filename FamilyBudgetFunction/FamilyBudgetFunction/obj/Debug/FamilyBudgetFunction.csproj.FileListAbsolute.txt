@@ -1,0 +1,11 @@
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\FamilyBudgetFunction\FamilyBudgetFunction\bin\Debug\FamilyBudgetFunction.exe.config
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\FamilyBudgetFunction\FamilyBudgetFunction\bin\Debug\FamilyBudgetFunction.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\FamilyBudgetFunction\FamilyBudgetFunction\bin\Debug\FamilyBudgetFunction.pdb
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\FamilyBudgetFunction\FamilyBudgetFunction\obj\Debug\FamilyBudgetFunction.csproj.AssemblyReference.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\FamilyBudgetFunction\FamilyBudgetFunction\obj\Debug\FamilyBudgetFunction.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\FamilyBudgetFunction\FamilyBudgetFunction\obj\Debug\FamilyBudgetFunction.Form1.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\FamilyBudgetFunction\FamilyBudgetFunction\obj\Debug\FamilyBudgetFunction.Properties.Resources.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\FamilyBudgetFunction\FamilyBudgetFunction\obj\Debug\FamilyBudgetFunction.csproj.GenerateResource.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\FamilyBudgetFunction\FamilyBudgetFunction\obj\Debug\FamilyBudgetFunction.csproj.CoreCompileInputs.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\FamilyBudgetFunction\FamilyBudgetFunction\obj\Debug\FamilyBudgetFunction.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\FamilyBudgetFunction\FamilyBudgetFunction\obj\Debug\FamilyBudgetFunction.pdb
