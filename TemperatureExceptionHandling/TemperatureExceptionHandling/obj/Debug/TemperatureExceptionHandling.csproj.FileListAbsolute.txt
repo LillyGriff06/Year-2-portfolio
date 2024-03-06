@@ -1,0 +1,11 @@
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TemperatureExceptionHandling\TemperatureExceptionHandling\bin\Debug\TemperatureExceptionHandling.exe.config
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TemperatureExceptionHandling\TemperatureExceptionHandling\bin\Debug\TemperatureExceptionHandling.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TemperatureExceptionHandling\TemperatureExceptionHandling\bin\Debug\TemperatureExceptionHandling.pdb
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TemperatureExceptionHandling\TemperatureExceptionHandling\obj\Debug\TemperatureExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TemperatureExceptionHandling\TemperatureExceptionHandling\obj\Debug\TemperatureExceptionHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TemperatureExceptionHandling\TemperatureExceptionHandling\obj\Debug\TemperatureExceptionHandling.Form1.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TemperatureExceptionHandling\TemperatureExceptionHandling\obj\Debug\TemperatureExceptionHandling.Properties.Resources.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TemperatureExceptionHandling\TemperatureExceptionHandling\obj\Debug\TemperatureExceptionHandling.csproj.GenerateResource.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TemperatureExceptionHandling\TemperatureExceptionHandling\obj\Debug\TemperatureExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TemperatureExceptionHandling\TemperatureExceptionHandling\obj\Debug\TemperatureExceptionHandling.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\TemperatureExceptionHandling\TemperatureExceptionHandling\obj\Debug\TemperatureExceptionHandling.pdb

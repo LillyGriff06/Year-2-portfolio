@@ -1,0 +1,11 @@
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\HotelOOP\HotelOOP\obj\Debug\HotelOOP.csproj.AssemblyReference.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\HotelOOP\HotelOOP\obj\Debug\HotelOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\HotelOOP\HotelOOP\obj\Debug\HotelOOP.Form1.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\HotelOOP\HotelOOP\obj\Debug\HotelOOP.Properties.Resources.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\HotelOOP\HotelOOP\obj\Debug\HotelOOP.csproj.GenerateResource.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\HotelOOP\HotelOOP\obj\Debug\HotelOOP.csproj.CoreCompileInputs.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\HotelOOP\HotelOOP\bin\Debug\HotelOOP.exe.config
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\HotelOOP\HotelOOP\bin\Debug\HotelOOP.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\HotelOOP\HotelOOP\bin\Debug\HotelOOP.pdb
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\HotelOOP\HotelOOP\obj\Debug\HotelOOP.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\HotelOOP\HotelOOP\obj\Debug\HotelOOP.pdb

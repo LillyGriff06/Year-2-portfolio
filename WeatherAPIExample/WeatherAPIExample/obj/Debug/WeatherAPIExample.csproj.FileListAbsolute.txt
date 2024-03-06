@@ -1,0 +1,14 @@
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\bin\Debug\WeatherAPIExample.exe.config
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\bin\Debug\WeatherAPIExample.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\bin\Debug\WeatherAPIExample.pdb
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\obj\Debug\WeatherAPIExample.csproj.AssemblyReference.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\obj\Debug\WeatherAPIExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\obj\Debug\WeatherAPIExample.Form1.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\obj\Debug\WeatherAPIExample.Properties.Resources.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\obj\Debug\WeatherAPIExample.csproj.GenerateResource.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\obj\Debug\WeatherAPIExample.csproj.CoreCompileInputs.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\obj\Debug\WeatherAPIExample.csproj.CopyComplete
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\obj\Debug\WeatherAPIExample.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\WeatherAPIExample\WeatherAPIExample\obj\Debug\WeatherAPIExample.pdb

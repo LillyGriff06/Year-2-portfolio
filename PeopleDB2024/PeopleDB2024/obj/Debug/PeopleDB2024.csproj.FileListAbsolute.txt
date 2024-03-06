@@ -1,0 +1,11 @@
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PeopleDB2024\PeopleDB2024\bin\Debug\PeopleDB2024.exe.config
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PeopleDB2024\PeopleDB2024\bin\Debug\PeopleDB2024.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PeopleDB2024\PeopleDB2024\bin\Debug\PeopleDB2024.pdb
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PeopleDB2024\PeopleDB2024\obj\Debug\PeopleDB2024.csproj.AssemblyReference.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PeopleDB2024\PeopleDB2024\obj\Debug\PeopleDB2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PeopleDB2024\PeopleDB2024\obj\Debug\PeopleDB2024.Form1.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PeopleDB2024\PeopleDB2024\obj\Debug\PeopleDB2024.Properties.Resources.resources
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PeopleDB2024\PeopleDB2024\obj\Debug\PeopleDB2024.csproj.GenerateResource.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PeopleDB2024\PeopleDB2024\obj\Debug\PeopleDB2024.csproj.CoreCompileInputs.cache
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PeopleDB2024\PeopleDB2024\obj\Debug\PeopleDB2024.exe
+C:\Users\M2201454\OneDrive - Middlesbrough College\Documents\DPY2\Programming - Trevor - C#\C# code\PeopleDB2024\PeopleDB2024\obj\Debug\PeopleDB2024.pdb
