@@ -1,0 +1,42 @@
+Summary:
+Overall, the prototype performed well, and most features were easy for the users to understand and 
+use. When asked if they agreed that the prototype is easy to use/understand, most users agreed
+with some strongly agreeing. The other users were neutral, and no users disagreed. On average, the 
+app received a rating of 4/5. This is good and proves that the prototype performed well but needs 
+some improvements to be made.
+Users enjoyed having information on different conditions being displayed and in most cases the user 
+learned something new. Half of the users who participated in the questionnaire and gave feedback 
+said that this was their favourite feature. Users also enjoyed the account settings and how easy it 
+was to edit and delete the account using this feature.
+One feature that users believe should be improved is the weather forecasting. This feature had the 
+most feedback for needing improvement and had comments about how the data it provides is not 
+presented in a way that is easy for people to read. Another feature with comments for improvement 
+was the interface. Many comments suggested using a different colour scheme and multiple forms so 
+that the prototype could become less cluttered and more appealing to its audience.
+Improvements that have been suggested for the future are a different colour scheme, multiple 
+forms, an option for bigger text, more information/pictures and data from the weather forecasting 
+feature and the dashboard should be presented in a way that is easier to read.
+Changes required:
+Issue Solution
+The temperature converter only converts one way. The temperature converter could convert temperature from 
+Fahrenheit to Celsius and from Celsius to Fahrenheit.
+The weather forecasting feature provides data that is 
+formatted in a way that is not easy to understand or 
+read.
+Specific data could be pulled from the API and displayed in 
+separate message boxes/textboxes when the button is clicked.
+The dashboard feature provides data in a way that is not 
+easy to understand or read.
+Specific data could be pulled from the API and displayed in 
+separate message boxes/textboxes when the button is clicked.
+The icon doesn’t fully fit the prototype. The icon fits with the health aspect of the app but should have 
+something weather related to link with the weather aspect of 
+the app.
+The features in the full design of the prototype are 
+squashed together.
+Simplify the user interface by separating the features into 
+different forms and try to use less words.
+Writing is difficult to read. Add accessibility settings to the account settings that allows for 
+the size of the text to be made bigger.
+The design is boring to look at. Plan out and use a different colour scheme that is more eye 
+catching for the user.
